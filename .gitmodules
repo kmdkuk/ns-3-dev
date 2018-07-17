@@ -1,0 +1,3 @@
+[submodule "src/dns"]
+	path = src/dns
+	url = git@github.com:awaki75/DNS-for-NS3.git
